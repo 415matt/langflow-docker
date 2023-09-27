@@ -1,7 +1,7 @@
 # LangFlow Docker
 
 ```sh
-cd langflow-deployment
+cd langflow-docker
 docker compose up
 ```
 
